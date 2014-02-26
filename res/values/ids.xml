@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="game_decrease" type="id"/>
+    <item name="game_increase" type="id" />
+    <item name="end_increase" type="id" />
+    <item name="arrow_increase" type="id" />
+</resources>
